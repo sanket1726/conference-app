@@ -1,0 +1,10 @@
+.app {
+  /* margin: 0; */
+  background-color: ivory;
+  background: url("https://wallpaperaccess.com/download/minimalist-retro-683409")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
