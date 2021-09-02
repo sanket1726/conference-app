@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/conference-app/static/css/main.0b843040.chunk.css",
+    "main.js": "/conference-app/static/js/main.1b5901f6.chunk.js",
+    "main.js.map": "/conference-app/static/js/main.1b5901f6.chunk.js.map",
+    "runtime-main.js": "/conference-app/static/js/runtime-main.c8ac4cd2.js",
+    "runtime-main.js.map": "/conference-app/static/js/runtime-main.c8ac4cd2.js.map",
+    "static/js/2.9bf12251.chunk.js": "/conference-app/static/js/2.9bf12251.chunk.js",
+    "static/js/2.9bf12251.chunk.js.map": "/conference-app/static/js/2.9bf12251.chunk.js.map",
+    "static/js/3.cfe3f89a.chunk.js": "/conference-app/static/js/3.cfe3f89a.chunk.js",
+    "static/js/3.cfe3f89a.chunk.js.map": "/conference-app/static/js/3.cfe3f89a.chunk.js.map",
+    "index.html": "/conference-app/index.html",
+    "static/css/main.0b843040.chunk.css.map": "/conference-app/static/css/main.0b843040.chunk.css.map",
+    "static/js/2.9bf12251.chunk.js.LICENSE.txt": "/conference-app/static/js/2.9bf12251.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8ac4cd2.js",
+    "static/js/2.9bf12251.chunk.js",
+    "static/css/main.0b843040.chunk.css",
+    "static/js/main.1b5901f6.chunk.js"
+  ]
+}
